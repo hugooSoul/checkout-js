@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.161.5-alpha.1629818301111](https://github.com/bigcommerce/checkout-js/compare/v1.161.3...v1.161.5-alpha.1629818301111) (2021-08-24)
+
+
+### Features
+
+* **payment:** INT-4660 button text update on Checkout for Klarna ([940b42a](https://github.com/bigcommerce/checkout-js/commit/940b42a299338a5c0d85b998a375505becda5dba))
+
+
+### Bug Fixes
+
+* **payment:** PAYMENTS-7214 fix PPSDK initialisation strategy casing ([#669](https://github.com/bigcommerce/checkout-js/issues/669)) ([1e60c15](https://github.com/bigcommerce/checkout-js/commit/1e60c152daf215b5802e8357c5824b2afd9221a0))
+
 ### [1.161.4](https://github.com/bigcommerce/checkout-js/compare/v1.161.3...v1.161.4) (2021-08-23)
 
 
